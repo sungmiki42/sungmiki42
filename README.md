@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sungmin Kim. (Jacob in English, sungmiki at Ecole 42)</h1>
+<h1 align="center">Hi 👋, I'm Sungmin Jacob Kim.</h1>
+<h3 align="center">Slack ID: sungmiki at Ecole 42 </h3>
 <h3 align="center">A passionate full-stack developer from South Korea.</h3>
 
 - 🔭 I’m currently working on **pong game server**
