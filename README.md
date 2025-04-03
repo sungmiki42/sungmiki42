@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **pong game server**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Java Script**
 
 - 👯 I’m looking to collaborate on **football tatic server**
 
