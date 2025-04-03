@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sm.jacob8633@gmail.com**
 
-- ⚡ Fun fact **I am a semi-professional footballer.**
+- ⚡ Fun fact **I have played a semi-professional football league in Sydney.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
